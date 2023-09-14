@@ -6,3 +6,4 @@ Test
 Grace Melchers  
 Ecologist  
 Vancouver, BC
+Studying kelp ecosystems around Vancouver Island
