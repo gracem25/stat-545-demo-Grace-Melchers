@@ -2,4 +2,5 @@
 STAT 545 Demo
 
 Grace Melchers  
-Ecologist
+Ecologist  
+Vancouver, BC
